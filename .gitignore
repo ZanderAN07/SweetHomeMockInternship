@@ -2,6 +2,9 @@
 target/
 /SweetHome3D/classes/
 
+# Local Java / Maven tools and dependency cache
+/.local/
+
 # IDE and operating-system metadata
 .idea/
 *.iml
